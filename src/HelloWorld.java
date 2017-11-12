@@ -7,7 +7,7 @@ public class HelloWorld {
 		
 		HelloUser helloUser = new HelloUser();
 		
-		System.out.println("Hello ASE2017 - How are you now? :)");
+		System.out.println("Hello ASE2017 - How are you noww? :)");
 		
 		System.out.print("Please enter your name: ");
 		
