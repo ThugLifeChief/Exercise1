@@ -1,8 +1,15 @@
 
 public class HelloUser {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("HelloUser is added :)");
+	
+	String userName = "no Username";
+	public void printAnswer() {
+		System.out.println("Hello " + userName +"!");
 	}
+	public String getUserName() {
+		return userName;
+	}
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+	
 }
