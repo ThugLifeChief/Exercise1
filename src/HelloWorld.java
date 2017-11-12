@@ -7,7 +7,11 @@ public class HelloWorld {
 		
 		HelloUser helloUser = new HelloUser();
 		
+<<<<<<< HEAD
 		System.out.println("Hello ASE2017 - How are you noww? :)");
+=======
+		System.out.println("Hello ASE2017 - How are youu? :)");
+>>>>>>> refs/heads/Hello_User
 		
 		System.out.print("Please enter your name: ");
 		
