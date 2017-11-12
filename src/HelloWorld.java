@@ -7,12 +7,9 @@ public class HelloWorld {
 		
 		HelloUser helloUser = new HelloUser();
 		
-<<<<<<< HEAD
+
 		System.out.println("Hello ASE2017 - How are you now? :)");
-=======
-		System.out.println("Hello ASE2017 - How are you now? :)");
->>>>>>> refs/heads/Hello_User
-		
+
 		System.out.print("Please enter your name: ");
 		
 		Scanner in  = new Scanner(System.in);
